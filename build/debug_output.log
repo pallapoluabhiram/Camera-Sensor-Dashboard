@@ -1,0 +1,564 @@
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current
+[ WARN:0@6.868] global cap_gstreamer.cpp:2839 handleMessage OpenCV | GStreamer warning: Embedded video playback halted; module v4l2src0 reported: Internal data stream error.
+[ WARN:0@6.868] global cap_gstreamer.cpp:1698 open OpenCV | GStreamer warning: unable to start pipeline
+[ WARN:0@6.868] global cap_gstreamer.cpp:1173 isPipelinePlaying OpenCV | GStreamer warning: GStreamer: pipeline have not been created
+[ WARN:0@6.868] global cap_v4l.cpp:999 open VIDEOIO(V4L2:/dev/video0): can't open camera by index
+[ERROR:0@8.000] global obsensor_uvc_stream_channel.cpp:158 getStreamChannelGroup Camera index out of range
+Camera failed to open, will generate placeholder frames
+Starting sensor data generation at 1 Hz (interval: 1000 ms)
+SensorDataGenerator: Emitting dataReady signal with data - Temperature: 16.7368 °C, Pressure: 1018.82 hPa at "2025-08-15T17:06:05"
+DataLogger::logSensorData called - Logging: false Stream valid: false
+Data logging skipped - Logger not active or stream not available
+SensorDataGenerator: dataReady signal emitted successfully
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257765989
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257766166
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257766267
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257766378
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257766452
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257766544
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257766692
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257766801
+SensorDataGenerator: Emitting dataReady signal with data - Temperature: 24.2678 °C, Pressure: 1018.33 hPa at "2025-08-15T17:06:06"
+DataLogger::logSensorData called - Logging: false Stream valid: false
+Data logging skipped - Logger not active or stream not available
+SensorDataGenerator: dataReady signal emitted successfully
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257766986
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257767173
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257767367
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257767477
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257767597
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257767729
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257767829
+SensorDataGenerator: Emitting dataReady signal with data - Temperature: 34.0772 °C, Pressure: 1022.56 hPa at "2025-08-15T17:06:07"
+DataLogger::logSensorData called - Logging: false Stream valid: false
+Data logging skipped - Logger not active or stream not available
+SensorDataGenerator: dataReady signal emitted successfully
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257768366
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257768682
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257768755
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257768798
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257768847
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257768881
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257768913
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257768944
+SensorDataGenerator: Emitting dataReady signal with data - Temperature: 31.6729 °C, Pressure: 1007.43 hPa at "2025-08-15T17:06:09"
+DataLogger::logSensorData called - Logging: false Stream valid: false
+Data logging skipped - Logger not active or stream not available
+SensorDataGenerator: dataReady signal emitted successfully
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257769067
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257769068
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257769089
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257769105
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257769154
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257769450
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257769479
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257769511
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257769543
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257769849
+SensorDataGenerator: Emitting dataReady signal with data - Temperature: 21.6426 °C, Pressure: 1012.82 hPa at "2025-08-15T17:06:10"
+DataLogger::logSensorData called - Logging: false Stream valid: false
+Data logging skipped - Logger not active or stream not available
+SensorDataGenerator: dataReady signal emitted successfully
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257770529
+Saved placeholder frame: "/home/computer/Documents/camera-sensor-dashboard/build/data/frame_20250815_170610.jpg"
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257770642
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257770737
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257770879
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257770973
+SensorDataGenerator: Emitting dataReady signal with data - Temperature: 23.5192 °C, Pressure: 1006.15 hPa at "2025-08-15T17:06:11"
+DataLogger::logSensorData called - Logging: false Stream valid: false
+Data logging skipped - Logger not active or stream not available
+SensorDataGenerator: dataReady signal emitted successfully
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257771041
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257771241
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257771514
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257771883
+SensorDataGenerator: Emitting dataReady signal with data - Temperature: 15.4367 °C, Pressure: 1024.61 hPa at "2025-08-15T17:06:12"
+DataLogger::logSensorData called - Logging: false Stream valid: false
+Data logging skipped - Logger not active or stream not available
+SensorDataGenerator: dataReady signal emitted successfully
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257772092
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257772242
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257772547
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257772584
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257772716
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257772838
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257772939
+SensorDataGenerator: Emitting dataReady signal with data - Temperature: 24.9767 °C, Pressure: 1019.05 hPa at "2025-08-15T17:06:13"
+DataLogger::logSensorData called - Logging: false Stream valid: false
+Data logging skipped - Logger not active or stream not available
+SensorDataGenerator: dataReady signal emitted successfully
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257773106
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257773183
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257773321
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257773403
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257773465
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257773565
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257773640
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257773680
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257773763
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257773808
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257773870
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257773919
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257773970
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257774047
+SensorDataGenerator: Emitting dataReady signal with data - Temperature: 21.7126 °C, Pressure: 1005.87 hPa at "2025-08-15T17:06:14"
+DataLogger::logSensorData called - Logging: false Stream valid: false
+Data logging skipped - Logger not active or stream not available
+SensorDataGenerator: dataReady signal emitted successfully
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257774122
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257774203
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257774270
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257774312
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257774373
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257774418
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257774480
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257774536
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257774597
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257774642
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257774688
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257774726
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257774762
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257774824
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257774883
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257774912
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257774978
+SensorDataGenerator: Emitting dataReady signal with data - Temperature: 23.8381 °C, Pressure: 1010.27 hPa at "2025-08-15T17:06:15"
+DataLogger::logSensorData called - Logging: false Stream valid: false
+Data logging skipped - Logger not active or stream not available
+SensorDataGenerator: dataReady signal emitted successfully
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257775052
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257775111
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257775144
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257775199
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257775239
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257775326
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257775356
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257775434
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257775460
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257775500
+Saved placeholder frame: "/home/computer/Documents/camera-sensor-dashboard/build/data/frame_20250815_170615.jpg"
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257775545
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257775573
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257775635
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257775680
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257775737
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257775783
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257775839
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257775878
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257775919
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257775960
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257776008
+SensorDataGenerator: Emitting dataReady signal with data - Temperature: 26.9042 °C, Pressure: 1003.91 hPa at "2025-08-15T17:06:16"
+DataLogger::logSensorData called - Logging: false Stream valid: false
+Data logging skipped - Logger not active or stream not available
+SensorDataGenerator: dataReady signal emitted successfully
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257776055
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257776101
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257776180
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257776259
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257776286
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257776313
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257776366
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257776427
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257776478
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257776557
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257776612
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257776669
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257776733
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257776836
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257776915
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257776980
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257777017
+SensorDataGenerator: Emitting dataReady signal with data - Temperature: 29.352 °C, Pressure: 999.817 hPa at "2025-08-15T17:06:17"
+DataLogger::logSensorData called - Logging: false Stream valid: false
+Data logging skipped - Logger not active or stream not available
+SensorDataGenerator: dataReady signal emitted successfully
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257777083
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257777106
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257777177
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257777214
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257777283
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257777351
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257777387
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257777456
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257777492
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257777535
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257777631
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257777700
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257777776
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257777854
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257777926
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257777999
+SensorDataGenerator: Emitting dataReady signal with data - Temperature: 25.1449 °C, Pressure: 1005.54 hPa at "2025-08-15T17:06:18"
+DataLogger::logSensorData called - Logging: false Stream valid: false
+Data logging skipped - Logger not active or stream not available
+SensorDataGenerator: dataReady signal emitted successfully
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257778092
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257778134
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257778231
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257778274
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257778319
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257778371
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257778411
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257778463
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257778554
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257778595
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257778651
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257778735
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257778762
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257778816
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257778874
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257778926
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257778971
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257779019
+SensorDataGenerator: Emitting dataReady signal with data - Temperature: 29.6191 °C, Pressure: 1018.85 hPa at "2025-08-15T17:06:19"
+DataLogger::logSensorData called - Logging: false Stream valid: false
+Data logging skipped - Logger not active or stream not available
+SensorDataGenerator: dataReady signal emitted successfully
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257779050
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257779096
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257779167
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257779188
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257779246
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257779285
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257779317
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257779384
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257779413
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257779478
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257779528
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257779625
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257779695
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257779754
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257779823
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257779862
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257779923
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257779954
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257780014
+SensorDataGenerator: Emitting dataReady signal with data - Temperature: 31.0979 °C, Pressure: 1019.03 hPa at "2025-08-15T17:06:20"
+DataLogger::logSensorData called - Logging: false Stream valid: false
+Data logging skipped - Logger not active or stream not available
+SensorDataGenerator: dataReady signal emitted successfully
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257780047
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257780116
+qml: Sampling rate changed to: 5 Hz
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257780181
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257780245
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257780279
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257780371
+SensorDataGenerator: Emitting dataReady signal with data - Temperature: 24.7035 °C, Pressure: 994.187 hPa at "2025-08-15T17:06:20"
+DataLogger::logSensorData called - Logging: false Stream valid: false
+Data logging skipped - Logger not active or stream not available
+SensorDataGenerator: dataReady signal emitted successfully
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257780416
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257780475
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257780548
+Saved placeholder frame: "/home/computer/Documents/camera-sensor-dashboard/build/data/frame_20250815_170620.jpg"
+SensorDataGenerator: Emitting dataReady signal with data - Temperature: 19.3444 °C, Pressure: 1022.99 hPa at "2025-08-15T17:06:20"
+DataLogger::logSensorData called - Logging: false Stream valid: false
+Data logging skipped - Logger not active or stream not available
+SensorDataGenerator: dataReady signal emitted successfully
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257780595
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257780626
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257780719
+SensorDataGenerator: Emitting dataReady signal with data - Temperature: 19.8649 °C, Pressure: 1013.82 hPa at "2025-08-15T17:06:20"
+DataLogger::logSensorData called - Logging: false Stream valid: false
+Data logging skipped - Logger not active or stream not available
+SensorDataGenerator: dataReady signal emitted successfully
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257780762
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257780850
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257780923
+SensorDataGenerator: Emitting dataReady signal with data - Temperature: 17.2677 °C, Pressure: 1011.96 hPa at "2025-08-15T17:06:20"
+DataLogger::logSensorData called - Logging: false Stream valid: false
+Data logging skipped - Logger not active or stream not available
+SensorDataGenerator: dataReady signal emitted successfully
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257780961
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257781020
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257781074
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257781109
+SensorDataGenerator: Emitting dataReady signal with data - Temperature: 32.1794 °C, Pressure: 1023.4 hPa at "2025-08-15T17:06:21"
+DataLogger::logSensorData called - Logging: false Stream valid: false
+Data logging skipped - Logger not active or stream not available
+SensorDataGenerator: dataReady signal emitted successfully
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257781150
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257781190
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257781247
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257781311
+SensorDataGenerator: Emitting dataReady signal with data - Temperature: 20.8921 °C, Pressure: 1011.95 hPa at "2025-08-15T17:06:21"
+DataLogger::logSensorData called - Logging: false Stream valid: false
+Data logging skipped - Logger not active or stream not available
+SensorDataGenerator: dataReady signal emitted successfully
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257781407
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257781458
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257781501
+SensorDataGenerator: Emitting dataReady signal with data - Temperature: 25.5109 °C, Pressure: 992.174 hPa at "2025-08-15T17:06:21"
+DataLogger::logSensorData called - Logging: false Stream valid: false
+Data logging skipped - Logger not active or stream not available
+SensorDataGenerator: dataReady signal emitted successfully
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257781560
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257781615
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257781656
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257781721
+SensorDataGenerator: Emitting dataReady signal with data - Temperature: 22.9755 °C, Pressure: 1023.47 hPa at "2025-08-15T17:06:21"
+DataLogger::logSensorData called - Logging: false Stream valid: false
+Data logging skipped - Logger not active or stream not available
+SensorDataGenerator: dataReady signal emitted successfully
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257781760
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257781812
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257781889
+SensorDataGenerator: Emitting dataReady signal with data - Temperature: 28.5958 °C, Pressure: 1026.63 hPa at "2025-08-15T17:06:21"
+DataLogger::logSensorData called - Logging: false Stream valid: false
+Data logging skipped - Logger not active or stream not available
+SensorDataGenerator: dataReady signal emitted successfully
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257781998
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257782068
+SensorDataGenerator: Emitting dataReady signal with data - Temperature: 29.6319 °C, Pressure: 1022.88 hPa at "2025-08-15T17:06:22"
+DataLogger::logSensorData called - Logging: false Stream valid: false
+Data logging skipped - Logger not active or stream not available
+SensorDataGenerator: dataReady signal emitted successfully
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257782152
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257782169
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257782198
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257782256
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257782298
+SensorDataGenerator: Emitting dataReady signal with data - Temperature: 31.7042 °C, Pressure: 1013.49 hPa at "2025-08-15T17:06:22"
+DataLogger::logSensorData called - Logging: false Stream valid: false
+Data logging skipped - Logger not active or stream not available
+SensorDataGenerator: dataReady signal emitted successfully
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257782354
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257782375
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257782405
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257782506
+SensorDataGenerator: Emitting dataReady signal with data - Temperature: 28.4904 °C, Pressure: 1008.78 hPa at "2025-08-15T17:06:22"
+DataLogger::logSensorData called - Logging: false Stream valid: false
+Data logging skipped - Logger not active or stream not available
+SensorDataGenerator: dataReady signal emitted successfully
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257782565
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257782643
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257782688
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257782760
+SensorDataGenerator: Emitting dataReady signal with data - Temperature: 31.119 °C, Pressure: 997.703 hPa at "2025-08-15T17:06:22"
+DataLogger::logSensorData called - Logging: false Stream valid: false
+Data logging skipped - Logger not active or stream not available
+SensorDataGenerator: dataReady signal emitted successfully
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257782813
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257782870
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257782976
+SensorDataGenerator: Emitting dataReady signal with data - Temperature: 24.8559 °C, Pressure: 1008.34 hPa at "2025-08-15T17:06:22"
+DataLogger::logSensorData called - Logging: false Stream valid: false
+Data logging skipped - Logger not active or stream not available
+SensorDataGenerator: dataReady signal emitted successfully
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257783058
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257783086
+SensorDataGenerator: Emitting dataReady signal with data - Temperature: 26.3081 °C, Pressure: 1024.88 hPa at "2025-08-15T17:06:23"
+DataLogger::logSensorData called - Logging: false Stream valid: false
+Data logging skipped - Logger not active or stream not available
+SensorDataGenerator: dataReady signal emitted successfully
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257783245
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257783321
+SensorDataGenerator: Emitting dataReady signal with data - Temperature: 30.4126 °C, Pressure: 1025.1 hPa at "2025-08-15T17:06:23"
+DataLogger::logSensorData called - Logging: false Stream valid: false
+Data logging skipped - Logger not active or stream not available
+SensorDataGenerator: dataReady signal emitted successfully
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257783361
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257783455
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257783494
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257783536
+SensorDataGenerator: Emitting dataReady signal with data - Temperature: 27.6118 °C, Pressure: 1011.48 hPa at "2025-08-15T17:06:23"
+DataLogger::logSensorData called - Logging: false Stream valid: false
+Data logging skipped - Logger not active or stream not available
+SensorDataGenerator: dataReady signal emitted successfully
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257783607
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257783683
+SensorDataGenerator: Emitting dataReady signal with data - Temperature: 30.239 °C, Pressure: 999.867 hPa at "2025-08-15T17:06:23"
+DataLogger::logSensorData called - Logging: false Stream valid: false
+Data logging skipped - Logger not active or stream not available
+SensorDataGenerator: dataReady signal emitted successfully
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257783757
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257783805
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257783883
+SensorDataGenerator: Emitting dataReady signal with data - Temperature: 20.6039 °C, Pressure: 1006.77 hPa at "2025-08-15T17:06:23"
+DataLogger::logSensorData called - Logging: false Stream valid: false
+Data logging skipped - Logger not active or stream not available
+SensorDataGenerator: dataReady signal emitted successfully
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257783978
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257784063
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257784161
+SensorDataGenerator: Emitting dataReady signal with data - Temperature: 21.2133 °C, Pressure: 1024.72 hPa at "2025-08-15T17:06:24"
+DataLogger::logSensorData called - Logging: false Stream valid: false
+Data logging skipped - Logger not active or stream not available
+SensorDataGenerator: dataReady signal emitted successfully
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257784253
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257784296
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257784412
+SensorDataGenerator: Emitting dataReady signal with data - Temperature: 17.7649 °C, Pressure: 1015.45 hPa at "2025-08-15T17:06:24"
+DataLogger::logSensorData called - Logging: false Stream valid: false
+Data logging skipped - Logger not active or stream not available
+SensorDataGenerator: dataReady signal emitted successfully
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257784481
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257784539
+SensorDataGenerator: Emitting dataReady signal with data - Temperature: 20.5796 °C, Pressure: 1013.72 hPa at "2025-08-15T17:06:24"
+DataLogger::logSensorData called - Logging: false Stream valid: false
+Data logging skipped - Logger not active or stream not available
+SensorDataGenerator: dataReady signal emitted successfully
+qml: Sampling rate changed to: 0.5 Hz
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257784611
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257784657
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257784724
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257784768
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257784833
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257784881
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257784920
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257784959
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257785009
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257785084
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257785133
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257785194
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257785243
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257785294
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257785334
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257785401
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257785436
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257785493
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257785533
+Saved placeholder frame: "/home/computer/Documents/camera-sensor-dashboard/build/data/frame_20250815_170625.jpg"
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257785622
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257785659
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257785704
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257785763
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257785811
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257785853
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257785912
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257785941
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257785997
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257786028
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257786100
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257786188
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257786266
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257786340
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257786376
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257786423
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257786474
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257786512
+SensorDataGenerator: Emitting dataReady signal with data - Temperature: 22.3259 °C, Pressure: 1027.95 hPa at "2025-08-15T17:06:26"
+DataLogger::logSensorData called - Logging: false Stream valid: false
+Data logging skipped - Logger not active or stream not available
+SensorDataGenerator: dataReady signal emitted successfully
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257786573
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257786629
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257786684
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257786730
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257786766
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257786824
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257786853
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257786884
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257786940
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257786981
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257787041
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257787071
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257787127
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257787160
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257787227
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257787284
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257787309
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257787344
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257787402
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257787435
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257787478
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257787535
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257787573
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257787651
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257787685
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257787744
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257787769
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257787818
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257787870
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257787899
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257787962
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257788020
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257788051
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257788079
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257788141
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257788188
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257788250
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257788306
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257788352
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257788380
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257788465
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257788495
+SensorDataGenerator: Emitting dataReady signal with data - Temperature: 28.2216 °C, Pressure: 1008.68 hPa at "2025-08-15T17:06:28"
+DataLogger::logSensorData called - Logging: false Stream valid: false
+Data logging skipped - Logger not active or stream not available
+SensorDataGenerator: dataReady signal emitted successfully
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257788643
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257788686
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257788807
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257788860
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257788907
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257788965
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257788994
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257789057
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257789130
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257789160
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257789186
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257789245
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257789274
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257789335
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257789408
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257789549
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257789622
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257789697
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257789782
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257789829
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257789904
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257789987
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257790091
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257790130
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257790187
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257790229
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257790296
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257790335
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257790374
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257790421
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257790460
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257790535
+Saved placeholder frame: "/home/computer/Documents/camera-sensor-dashboard/build/data/frame_20250815_170630.jpg"
+SensorDataGenerator: Emitting dataReady signal with data - Temperature: 32.8348 °C, Pressure: 991.641 hPa at "2025-08-15T17:06:30"
+DataLogger::logSensorData called - Logging: false Stream valid: false
+Data logging skipped - Logger not active or stream not available
+SensorDataGenerator: dataReady signal emitted successfully
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257790565
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257790639
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257790698
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257790748
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257790792
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257790865
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257790907
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257790995
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257791034
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257791060
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257791091
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257791153
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257791204
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257791251
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257791281
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257791360
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257791440
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257791506
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257791576
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257791630
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257791657
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257791723
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257791776
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257791813
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257791867
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257791923
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257791953
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257792009
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257792067
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257792138
+qrc:/CameraView.qml:13:5: QML QQuickImage: Failed to get image from provider: image://camera/current?1755257792210
+qml: All data and states reset successfully
+Loaded 61 readings for playback
+Loaded 61 readings from "/home/computer/Documents/camera-sensor-dashboard/build/data/sample_sensor_data.csv"
+Loaded 61 readings for playback

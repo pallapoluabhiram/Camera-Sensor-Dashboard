@@ -1,0 +1,6 @@
+# Hashes of file build rules.
+67280e257a65ea3b8d4a1f1c208d62f1 .qt/qml_imports/CameraSensorDashboard_build.cmake
+7bc61a2ce7075330fb60eb99d3e7f1fb CMakeFiles/CameraSensorDashboard_autogen
+7bc61a2ce7075330fb60eb99d3e7f1fb CMakeFiles/CameraSensorDashboard_qmlimportscan
+190030f3825c3afee4fb6aadc7639ae3 CameraSensorDashboard_autogen/timestamp
+4e4eac8c454d3ca1a1f0df59d6fc7666 qrc_qml.cpp

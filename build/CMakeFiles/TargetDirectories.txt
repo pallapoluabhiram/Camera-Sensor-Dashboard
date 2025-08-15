@@ -1,0 +1,6 @@
+/home/computer/Documents/camera-sensor-dashboard/build/CMakeFiles/CameraSensorDashboard.dir
+/home/computer/Documents/camera-sensor-dashboard/build/CMakeFiles/CameraSensorDashboard_qmlimportscan.dir
+/home/computer/Documents/camera-sensor-dashboard/build/CMakeFiles/edit_cache.dir
+/home/computer/Documents/camera-sensor-dashboard/build/CMakeFiles/rebuild_cache.dir
+/home/computer/Documents/camera-sensor-dashboard/build/CMakeFiles/CameraSensorDashboard_autogen_timestamp_deps.dir
+/home/computer/Documents/camera-sensor-dashboard/build/CMakeFiles/CameraSensorDashboard_autogen.dir
